@@ -29,6 +29,5 @@ class MainActivity : AppCompatActivity() {
 
         t3.setText("홍익인간 뜻으로 나라 세우니 대대손손 훌륭한 인물도 많아 고구려 세운 동명왕 백제 온조왕 알에서 나온 혁거세")
         t3.setSingleLine()
-
     }
 }
